@@ -1,0 +1,16 @@
+{
+  "name": "pastel-shop-backend",
+  "version": "1.0.0",
+  "description": "REST API Pastel Shop (Express + MySQL)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test:crud": "node scripts/test_crud.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.0"
+  }
+}
