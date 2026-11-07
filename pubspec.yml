@@ -1,0 +1,24 @@
+name: flutter_application_1
+description: "Pastel Shop - CRUD produk Flutter + REST API + MySQL (Docker)"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  dio: ^5.11.1
+  go_router: ^18.1.1
+  provider: ^6.1.5+1
+  cached_network_image: ^3.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
