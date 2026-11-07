@@ -1,4 +1,4 @@
-# Pastel Shop - aplikasi Flutter
+# Pastel Shop - Aplikasi Flutter
 
 Aplikasi Flutter ini terhubung ke backend REST API + MySQL (Docker).
 Dokumentasi lengkap ada di `README.md` di folder induk (`../README.md`).
